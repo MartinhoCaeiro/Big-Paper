@@ -1,0 +1,170 @@
+\documentclass[a4paper]{article}
+% Pacotes necessários
+\usepackage[portuguese]{babel}
+\usepackage[backend=biber, style=apa, citestyle=apa, language=portuguese]{biblatex}
+\usepackage{csquotes}
+\addbibresource{Recursos/referencias.bib}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{setspace}
+\usepackage{siunitx} % Required for alignment
+\sisetup{
+  round-mode          = places, % Rounds numbers
+  round-precision     = 2, % to 2 places
+}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{karnaugh-map}
+\usepackage[section]{placeins}
+\usepackage{geometry}
+\usepackage{amssymb}
+\usepackage{titling}
+\usepackage[T1]{fontenc}
+\usepackage{float}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+\usepackage{indentfirst}
+\usepackage{array}
+\usepackage{soul}
+\usepackage{afterpage}
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\onehalfspacing
+
+% Comando para criar uma página vazia
+\newcommand\myemptypage{
+    \null
+    \thispagestyle{empty}
+    \addtocounter{page}{-1}
+    \newpage
+}
+
+% Página de título principal
+\newcommand{\firsttitlepage}{
+    \begin{titlepage}
+        \centering
+        \vspace*{1cm}
+        
+        % Logos superior
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=6cm]{Recursos/LOGO_IPB} % Substitua pelo caminho da imagem
+            \vspace{0.5cm}
+        \end{figure}
+
+        % Informações da instituição
+        \large\textbf{INSTITUTO POLITÉCNICO DE BEJA} \\
+        \large\textbf{Escola Superior de Tecnologia e Gestão} \\
+        \large\textbf{Mestrado em Engenharia de Segurança Informática} \\
+        \large\textbf{Direito na Segurança Informática e no Cibercrime} \\
+        
+        \vspace{2cm}
+        
+        % Título do projeto
+        {\Huge \textbf{Acórdão de 22 de junho de 2021}} \\
+        
+        \vspace{1.5cm}
+        
+        % Autores
+        \large Martinho José Novo Caeiro - 23917 \\
+        
+        \vfill
+        
+        % Logo inferior
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=6cm]{Recursos/IPBejaESTIG.jpg} % Substitua pelo caminho da imagem
+        \end{figure}
+        
+        \vspace{1cm}
+        
+        % Local e data
+        {\large Beja, dezembro de 2025}
+    \end{titlepage}
+}
+
+\newcommand{\secondtitlepage}{
+    \begin{titlepage}
+        \centering
+        \vspace*{1cm}
+        
+        % Informações da instituição
+        \large\textbf{INSTITUTO POLITÉCNICO DE BEJA} \\
+        \large\textbf{Escola Superior de Tecnologia e Gestão} \\
+        \large\textbf{Mestrado em Engenharia de Segurança Informática} \\
+        \large\textbf{Direito na Segurança Informática e no Cibercrime} \\
+        
+        \vspace{2cm}
+        
+        % Título do projeto
+        {\Huge \textbf{Acórdão de 22 de junho de 2021}} \\
+        
+        \vspace{1.5cm}
+        
+        % Autores
+        \large Martinho José Novo Caeiro - 23917 \\
+
+        \vspace{2cm}
+
+        % Orientador
+        \large Orientador: Manuel David Rodrigues Masseno \\
+        
+        \vfill
+        
+        % Local e data
+        {\large Beja, dezembro de 2025}
+    \end{titlepage}
+}
+
+\begin{document}
+
+
+\pagenumbering{gobble} % Oculta numeração da página
+
+% Primeira página de título
+\firsttitlepage
+
+\secondtitlepage
+
+\vspace{1cm}
+\newpage
+%--------------------------------------------------------------------------------------------------------------------------------------
+
+\vspace{1cm}
+
+% Início do conteúdo do relatório
+\newpage
+\doublespacing
+\doublespacing
+
+\newpage
+\pagenumbering{arabic}
+
+\section{O Acórdão}\label{intro}
+
+%---------------------------------------------------------------------------------------------------------------------------
+\newpage
+\section{Análise Jurídica}\label{con}
+
+%---------------------------------------------------------------------------------------------------------------------------
+\subsection{Anteriormente}
+
+%---------------------------------------------------------------------------------------------------------------------------
+\newpage
+\subsection{Atualmente}
+
+%---------------------------------------------------------------------------------------------------------------------------
+\newpage
+\subsection{Futuramente}
+
+%---------------------------------------------------------------------------------------------------------------------------
+
+\newpage
+\renewcommand{\refname}{Bibliografia} % Para artigos
+\renewcommand{\bibname}{Bibliografia} % Para livros e relatórios
+\addcontentsline{toc}{section}{Bibliografia} % Adiciona a Bibliografia ao índice
+\printbibliography
+
+\end{document}
