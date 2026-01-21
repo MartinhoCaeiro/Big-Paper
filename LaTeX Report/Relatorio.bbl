@@ -16,5 +16,370 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{diretiva200031-1}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
+           family={EUR-Lex},
+           familyi={E\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \strng{bibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorbibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diretiva 2000/31/CE (Versão 2000-07-17)}
+      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000 relativa a certos aspetos dos serviços da sociedade da informação, em especial o comércio eletrónico, no mercado interno (Diretiva sobre o comércio eletrónico)}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0031-20000717&qid=1769020079069
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0031-20000717&qid=1769020079069
+      \endverb
+    \endentry
+    \entry{diretiva200129-1}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
+           family={EUR-Lex},
+           familyi={E\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \strng{bibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorbibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diretiva 2001/29/CE (Versão 2001-06-22)}
+      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001 relativa à harmonização de certos aspetos dos direitos de autor e dos direitos conexos na sociedade da informação}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0029-20010622&qid=1769013501525
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0029-20010622&qid=1769013501525
+      \endverb
+    \endentry
+    \entry{diretiva200129-2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
+           family={EUR-Lex},
+           familyi={E\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \strng{bibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorbibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diretiva 2001/29/CE (Versão 2019-06-06)}
+      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001 relativa à harmonização de certos aspetos dos direitos de autor e dos direitos conexos na sociedade da informação}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32001L0029#
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32001L0029#
+      \endverb
+    \endentry
+    \entry{diretiva200031-2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
+           family={EUR-Lex},
+           familyi={E\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \strng{bibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorbibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diretiva 2000/31/CE (Versão 2024-02-17)}
+      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000 relativa a certos aspetos dos serviços da sociedade da informação, em especial o comércio eletrónico, no mercado interno (Diretiva sobre o comércio eletrónico)}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32000L0031&qid=1769020079069
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32000L0031&qid=1769020079069
+      \endverb
+    \endentry
+    \entry{acordao20210622}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d107509cb24c5d0ab494f607d5bf6ad}{%
+           family={Tribunal\bibnamedelima da\bibnamedelima União\bibnamedelima Europeia},
+           familyi={T\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{fullhash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{fullhashraw}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{bibnamehash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{authorbibnamehash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{authornamehash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{authorfullhash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{authorfullhashraw}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acórdão do Tribunal de Justiça (Grande Secção) de 22 de junho de 2021 (Processo C-682/18 e C-683/18)}
+      \field{title}{Acórdão do Tribunal de Justiça (Grande Secção) de 22 de junho de 2021. Frank Peterson contra Google LLC e o. e Elsevier Inc. contra Cyando AG.}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:62018CJ0682
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:62018CJ0682
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{diretiva200031-1}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
+           family={EUR-Lex},
+           familyi={E\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \strng{bibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorbibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diretiva 2000/31/CE (Versão 2000-07-17)}
+      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000 relativa a certos aspetos dos serviços da sociedade da informação, em especial o comércio eletrónico, no mercado interno (Diretiva sobre o comércio eletrónico)}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2000}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0031-20000717&qid=1769020079069
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000L0031-20000717&qid=1769020079069
+      \endverb
+    \endentry
+    \entry{diretiva200129-1}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
+           family={EUR-Lex},
+           familyi={E\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \strng{bibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorbibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diretiva 2001/29/CE (Versão 2001-06-22)}
+      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001 relativa à harmonização de certos aspetos dos direitos de autor e dos direitos conexos na sociedade da informação}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0029-20010622&qid=1769013501525
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0029-20010622&qid=1769013501525
+      \endverb
+    \endentry
+    \entry{diretiva200129-2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
+           family={EUR-Lex},
+           familyi={E\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \strng{bibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorbibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \field{extraname}{3}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diretiva 2001/29/CE (Versão 2019-06-06)}
+      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001 relativa à harmonização de certos aspetos dos direitos de autor e dos direitos conexos na sociedade da informação}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32001L0029#
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32001L0029#
+      \endverb
+    \endentry
+    \entry{diretiva200031-2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
+           family={EUR-Lex},
+           familyi={E\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \strng{bibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorbibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diretiva 2000/31/CE (Versão 2024-02-17)}
+      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000 relativa a certos aspetos dos serviços da sociedade da informação, em especial o comércio eletrónico, no mercado interno (Diretiva sobre o comércio eletrónico)}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32000L0031&qid=1769020079069
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32000L0031&qid=1769020079069
+      \endverb
+    \endentry
+    \entry{acordao20210622}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d107509cb24c5d0ab494f607d5bf6ad}{%
+           family={Tribunal\bibnamedelima da\bibnamedelima União\bibnamedelima Europeia},
+           familyi={T\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{fullhash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{fullhashraw}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{bibnamehash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{authorbibnamehash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{authornamehash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{authorfullhash}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \strng{authorfullhashraw}{4d107509cb24c5d0ab494f607d5bf6ad}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acórdão do Tribunal de Justiça (Grande Secção) de 22 de junho de 2021 (Processo C-682/18 e C-683/18)}
+      \field{title}{Acórdão do Tribunal de Justiça (Grande Secção) de 22 de junho de 2021. Frank Peterson contra Google LLC e o. e Elsevier Inc. contra Cyando AG.}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:62018CJ0682
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:62018CJ0682
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

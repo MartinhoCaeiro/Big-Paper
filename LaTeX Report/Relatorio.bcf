@@ -3070,6 +3070,11 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">Recursos/referencias.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">acordao20210622</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">diretiva200129-1</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">diretiva200031-1</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">diretiva200129-2</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">diretiva200031-2</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
