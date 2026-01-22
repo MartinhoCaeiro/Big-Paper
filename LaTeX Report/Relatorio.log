@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.7)  21 JAN 2026 19:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.7)  22 JAN 2026 19:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -976,12 +976,12 @@ Package hyperref Info: Link coloring OFF on input line 121.
 \@outlinefile=\write5
 \openout5 = `Relatorio.out'.
 
-<Recursos/LOGO_IPB.png, id=29, 646.415pt x 499.8675pt>
+<Recursos/LOGO_IPB.png, id=25, 646.415pt x 499.8675pt>
 File: Recursos/LOGO_IPB.png Graphic file (type png)
 <use Recursos/LOGO_IPB.png>
 Package pdftex.def Info: Recursos/LOGO_IPB.png  used on input line 127.
 (pdftex.def)             Requested size: 170.71652pt x 132.01424pt.
-<Recursos/IPBejaESTIG.jpg, id=30, 501.875pt x 301.125pt>
+<Recursos/IPBejaESTIG.jpg, id=26, 501.875pt x 301.125pt>
 File: Recursos/IPBejaESTIG.jpg Graphic file (type jpg)
 <use Recursos/IPBejaESTIG.jpg>
 Package pdftex.def Info: Recursos/IPBejaESTIG.jpg  used on input line 127.
@@ -1005,66 +1005,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--172
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--181
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
 
  []
 
 
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 186--188
+Underfull \hbox (badness 10000) in paragraph at lines 190--192
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--197
+Underfull \hbox (badness 10000) in paragraph at lines 201--204
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--201
+Underfull \hbox (badness 10000) in paragraph at lines 205--208
 
  []
 
 
 
 [3]
+Underfull \hbox (badness 10000) in paragraph at lines 216--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--236
+
+ []
+
+
 
 [4]
-
-[5]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 223.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 248.
  (C:\Users\Marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 223.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 248.
  (C:\Users\Marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-[6] (Relatorio.aux)
+[5] (Relatorio.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-10-09>
  ***********
 Package rerunfilecheck Info: File `Relatorio.out' has not changed.
-(rerunfilecheck)             Checksum: 8C462AE9A2FD56843EC20AE49D1772CA;843.
+(rerunfilecheck)             Checksum: 1A7F9B47D6224A335530962D14E42C35;644.
 Package logreq Info: Writing requests to 'Relatorio.run.xml'.
 \openout1 = `Relatorio.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36487 strings out of 473897
- 733507 string characters out of 5726462
- 1597118 words of memory out of 5000000
- 58852 multiletter control sequences out of 15000+600000
+ 36500 strings out of 473897
+ 733859 string characters out of 5726462
+ 1596192 words of memory out of 5000000
+ 58866 multiletter control sequences out of 15000+600000
  566494 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,6n,107p,748b,2805s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>
-Output written on Relatorio.pdf (8 pages, 194681 bytes).
+Output written on Relatorio.pdf (7 pages, 194728 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 373 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 

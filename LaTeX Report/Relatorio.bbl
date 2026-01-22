@@ -42,7 +42,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Diretiva 2000/31/CE (Versão 2000-07-17)}
-      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000 relativa a certos aspetos dos serviços da sociedade da informação, em especial o comércio eletrónico, no mercado interno (Diretiva sobre o comércio eletrónico)}
+      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000}
       \field{urlday}{21}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
@@ -78,7 +78,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Diretiva 2001/29/CE (Versão 2001-06-22)}
-      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001 relativa à harmonização de certos aspetos dos direitos de autor e dos direitos conexos na sociedade da informação}
+      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001}
       \field{urlday}{21}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
@@ -91,7 +91,7 @@
       \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0029-20010622&qid=1769013501525
       \endverb
     \endentry
-    \entry{diretiva200129-2}{online}{}{}
+    \entry{diretiva2019790}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
            family={EUR-Lex},
@@ -108,13 +108,51 @@
       \field{extraname}{3}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diretiva (UE) 2019/790 (Versão 2019-05-17)}
+      \field{title}{Diretiva (UE) 2019/790 do Parlamento Europeu e do Conselho de 17 de abril de 2019}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2019/790/oj?locale=pt
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2019/790/oj?locale=pt
+      \endverb
+    \endentry
+    \entry{diretiva200129-2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
+           family={EUR-Lex},
+           familyi={E\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \strng{bibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorbibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Diretiva 2001/29/CE (Versão 2019-06-06)}
-      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001 relativa à harmonização de certos aspetos dos direitos de autor e dos direitos conexos na sociedade da informação}
+      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001}
       \field{urlday}{21}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
@@ -141,7 +179,7 @@
       \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
       \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
       \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -150,7 +188,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Diretiva 2000/31/CE (Versão 2024-02-17)}
-      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000 relativa a certos aspetos dos serviços da sociedade da informação, em especial o comércio eletrónico, no mercado interno (Diretiva sobre o comércio eletrónico)}
+      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000}
       \field{urlday}{21}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
@@ -223,7 +261,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Diretiva 2000/31/CE (Versão 2000-07-17)}
-      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000 relativa a certos aspetos dos serviços da sociedade da informação, em especial o comércio eletrónico, no mercado interno (Diretiva sobre o comércio eletrónico)}
+      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000}
       \field{urlday}{21}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
@@ -259,7 +297,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Diretiva 2001/29/CE (Versão 2001-06-22)}
-      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001 relativa à harmonização de certos aspetos dos direitos de autor e dos direitos conexos na sociedade da informação}
+      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001}
       \field{urlday}{21}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
@@ -272,7 +310,7 @@
       \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0029-20010622&qid=1769013501525
       \endverb
     \endentry
-    \entry{diretiva200129-2}{online}{}{}
+    \entry{diretiva2019790}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
            family={EUR-Lex},
@@ -289,13 +327,51 @@
       \field{extraname}{3}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Diretiva (UE) 2019/790 (Versão 2019-05-17)}
+      \field{title}{Diretiva (UE) 2019/790 do Parlamento Europeu e do Conselho de 17 de abril de 2019}
+      \field{urlday}{21}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/eli/dir/2019/790/oj?locale=pt
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/eli/dir/2019/790/oj?locale=pt
+      \endverb
+    \endentry
+    \entry{diretiva200129-2}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
+           family={EUR-Lex},
+           familyi={E\bibinithyphendelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{fullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \strng{bibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorbibnamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
+      \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
+      \field{extraname}{4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Diretiva 2001/29/CE (Versão 2019-06-06)}
-      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001 relativa à harmonização de certos aspetos dos direitos de autor e dos direitos conexos na sociedade da informação}
+      \field{title}{Diretiva 2001/29/CE do Parlamento Europeu e do Conselho de 22 de maio de 2001}
       \field{urlday}{21}
       \field{urlmonth}{1}
       \field{urlyear}{2026}
@@ -322,7 +398,7 @@
       \strng{authornamehash}{feafc26a93bfd912acdaa051491623b4}
       \strng{authorfullhash}{feafc26a93bfd912acdaa051491623b4}
       \strng{authorfullhashraw}{feafc26a93bfd912acdaa051491623b4}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
@@ -331,7 +407,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{Diretiva 2000/31/CE (Versão 2024-02-17)}
-      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000 relativa a certos aspetos dos serviços da sociedade da informação, em especial o comércio eletrónico, no mercado interno (Diretiva sobre o comércio eletrónico)}
+      \field{title}{Diretiva 2000/31/CE do Parlamento Europeu e do Conselho de 8 de junho de 2000}
       \field{urlday}{21}
       \field{urlmonth}{1}
       \field{urlyear}{2026}

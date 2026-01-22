@@ -3075,6 +3075,7 @@
     <bcf:citekey order="3" intorder="1">diretiva200031-1</bcf:citekey>
     <bcf:citekey order="4" intorder="1">diretiva200129-2</bcf:citekey>
     <bcf:citekey order="5" intorder="1">diretiva200031-2</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">diretiva2019790</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
