@@ -19,6 +19,44 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{asadi2023_digital_platforms_ip}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d033b29547db1d2d5ffef08fad4a0d45}{%
+           family={Asadi},
+           familyi={A\bibinitperiod},
+           given={Fatemeh},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{fullhash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{fullhashraw}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{bibnamehash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{authorbibnamehash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{authornamehash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{authorfullhash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{authorfullhashraw}{d033b29547db1d2d5ffef08fad4a0d45}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Comparação dos regimes legais de responsabilidade por conteúdo gerado pelos usuários}
+      \field{title}{Digital Platforms and Intellectual Property Infringement: Exploring Legal Liability for User-Generated Content}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.jlsda.com/index.php/lsda/article/view/10
+      \endverb
+      \verb{url}
+      \verb https://www.jlsda.com/index.php/lsda/article/view/10
+      \endverb
+    \endentry
     \entry{diretiva200031-1}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
@@ -199,6 +237,131 @@
       \endverb
       \verb{url}
       \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32000L0031&qid=1769020079069
+      \endverb
+    \endentry
+    \entry{hanuz2020_direct_copyright}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2b6f501ee7d680e7a8b14d69edd83c8f}{%
+           family={Hanuz},
+           familyi={H\bibinitperiod},
+           given={Bianca},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{fullhash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{fullhashraw}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{bibnamehash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{authorbibnamehash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{authornamehash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{authorfullhash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{authorfullhashraw}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Analisa a responsabilidade direta das plataformas nos termos do Art. 3.º da Diretiva 2001/29/CE}
+      \field{title}{Direct Copyright Liability as Regulation of Hosting Platforms for Copyright-infringing Content Uploaded by Users}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.jipitec.eu/jipitec/article/view/289
+      \endverb
+      \verb{url}
+      \verb https://www.jipitec.eu/jipitec/article/view/289
+      \endverb
+    \endentry
+    \entry{reis2025_responsabilidade_plataformas}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2d6e83a3bc1e7c9d4135a8b1eac3bc51}{%
+           family={Reis},
+           familyi={R\bibinitperiod},
+           given={Natã\bibnamedelimb Cabral\bibnamedelima Ribeiro},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b564c5150774eab12849b87330dbaa8d}{%
+           family={Marinho},
+           familyi={M\bibinitperiod},
+           given={Bruna\bibnamedelimb Marcelle\bibnamedelimb Bastos\bibnamedelima Dias},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57d7473b9b4fc3235b74922380771532}{%
+           family={Júnior},
+           familyi={J\bibinitperiod},
+           given={Renato\bibnamedelimb Marcelo\bibnamedelima Resgala},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{81eff74fbdeb9f5d4bd67b699bd05d2c}
+      \strng{fullhash}{21bd2d3903e3313c9fbb0f938c509581}
+      \strng{fullhashraw}{21bd2d3903e3313c9fbb0f938c509581}
+      \strng{bibnamehash}{21bd2d3903e3313c9fbb0f938c509581}
+      \strng{authorbibnamehash}{21bd2d3903e3313c9fbb0f938c509581}
+      \strng{authornamehash}{81eff74fbdeb9f5d4bd67b699bd05d2c}
+      \strng{authorfullhash}{21bd2d3903e3313c9fbb0f938c509581}
+      \strng{authorfullhashraw}{21bd2d3903e3313c9fbb0f938c509581}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Responsabilidade das Plataformas Digitais pela Violação de Direitos Autorais}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://submissoesrevistarcmos.com.br/index.php/rcmos/article/view/1068
+      \endverb
+      \verb{url}
+      \verb https://submissoesrevistarcmos.com.br/index.php/rcmos/article/view/1068
+      \endverb
+    \endentry
+    \entry{romero2024_online_platforms_copyright}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83d7cfc983ef2690b2b5a6b707a84150}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={Javier\bibnamedelima Dominguez},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{fullhash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{fullhashraw}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{bibnamehash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{authorbibnamehash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{authornamehash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{authorfullhash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{authorfullhashraw}{83d7cfc983ef2690b2b5a6b707a84150}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Discute o regime de responsabilidade sob DSM e DSA à luz da jurisprudência da UE}
+      \field{title}{Online Platforms and Copyright: Analyzing the Liability Regime under the Digital Single Market Directive and the Digital Services Act}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://journals.law.uj.edu.pl/TPP/article/view/1216
+      \endverb
+      \verb{url}
+      \verb https://journals.law.uj.edu.pl/TPP/article/view/1216
       \endverb
     \endentry
     \entry{acordao20210622}{online}{}{}
@@ -238,6 +401,44 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
+    \entry{asadi2023_digital_platforms_ip}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d033b29547db1d2d5ffef08fad4a0d45}{%
+           family={Asadi},
+           familyi={A\bibinitperiod},
+           given={Fatemeh},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{fullhash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{fullhashraw}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{bibnamehash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{authorbibnamehash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{authornamehash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{authorfullhash}{d033b29547db1d2d5ffef08fad4a0d45}
+      \strng{authorfullhashraw}{d033b29547db1d2d5ffef08fad4a0d45}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Comparação dos regimes legais de responsabilidade por conteúdo gerado pelos usuários}
+      \field{title}{Digital Platforms and Intellectual Property Infringement: Exploring Legal Liability for User-Generated Content}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.jlsda.com/index.php/lsda/article/view/10
+      \endverb
+      \verb{url}
+      \verb https://www.jlsda.com/index.php/lsda/article/view/10
+      \endverb
+    \endentry
     \entry{diretiva200031-1}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=feafc26a93bfd912acdaa051491623b4}{%
@@ -418,6 +619,131 @@
       \endverb
       \verb{url}
       \verb https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32000L0031&qid=1769020079069
+      \endverb
+    \endentry
+    \entry{hanuz2020_direct_copyright}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2b6f501ee7d680e7a8b14d69edd83c8f}{%
+           family={Hanuz},
+           familyi={H\bibinitperiod},
+           given={Bianca},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{fullhash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{fullhashraw}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{bibnamehash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{authorbibnamehash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{authornamehash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{authorfullhash}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \strng{authorfullhashraw}{2b6f501ee7d680e7a8b14d69edd83c8f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Analisa a responsabilidade direta das plataformas nos termos do Art. 3.º da Diretiva 2001/29/CE}
+      \field{title}{Direct Copyright Liability as Regulation of Hosting Platforms for Copyright-infringing Content Uploaded by Users}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.jipitec.eu/jipitec/article/view/289
+      \endverb
+      \verb{url}
+      \verb https://www.jipitec.eu/jipitec/article/view/289
+      \endverb
+    \endentry
+    \entry{reis2025_responsabilidade_plataformas}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2d6e83a3bc1e7c9d4135a8b1eac3bc51}{%
+           family={Reis},
+           familyi={R\bibinitperiod},
+           given={Natã\bibnamedelimb Cabral\bibnamedelima Ribeiro},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b564c5150774eab12849b87330dbaa8d}{%
+           family={Marinho},
+           familyi={M\bibinitperiod},
+           given={Bruna\bibnamedelimb Marcelle\bibnamedelimb Bastos\bibnamedelima Dias},
+           giveni={B\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57d7473b9b4fc3235b74922380771532}{%
+           family={Júnior},
+           familyi={J\bibinitperiod},
+           given={Renato\bibnamedelimb Marcelo\bibnamedelima Resgala},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{81eff74fbdeb9f5d4bd67b699bd05d2c}
+      \strng{fullhash}{21bd2d3903e3313c9fbb0f938c509581}
+      \strng{fullhashraw}{21bd2d3903e3313c9fbb0f938c509581}
+      \strng{bibnamehash}{21bd2d3903e3313c9fbb0f938c509581}
+      \strng{authorbibnamehash}{21bd2d3903e3313c9fbb0f938c509581}
+      \strng{authornamehash}{81eff74fbdeb9f5d4bd67b699bd05d2c}
+      \strng{authorfullhash}{21bd2d3903e3313c9fbb0f938c509581}
+      \strng{authorfullhashraw}{21bd2d3903e3313c9fbb0f938c509581}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Responsabilidade das Plataformas Digitais pela Violação de Direitos Autorais}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://submissoesrevistarcmos.com.br/index.php/rcmos/article/view/1068
+      \endverb
+      \verb{url}
+      \verb https://submissoesrevistarcmos.com.br/index.php/rcmos/article/view/1068
+      \endverb
+    \endentry
+    \entry{romero2024_online_platforms_copyright}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=83d7cfc983ef2690b2b5a6b707a84150}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={Javier\bibnamedelima Dominguez},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{fullhash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{fullhashraw}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{bibnamehash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{authorbibnamehash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{authornamehash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{authorfullhash}{83d7cfc983ef2690b2b5a6b707a84150}
+      \strng{authorfullhashraw}{83d7cfc983ef2690b2b5a6b707a84150}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Discute o regime de responsabilidade sob DSM e DSA à luz da jurisprudência da UE}
+      \field{title}{Online Platforms and Copyright: Analyzing the Liability Regime under the Digital Single Market Directive and the Digital Services Act}
+      \field{urlday}{28}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://journals.law.uj.edu.pl/TPP/article/view/1216
+      \endverb
+      \verb{url}
+      \verb https://journals.law.uj.edu.pl/TPP/article/view/1216
       \endverb
     \endentry
     \entry{acordao20210622}{online}{}{}
