@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.7)  28 JAN 2026 19:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.7)  29 JAN 2026 21:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1061,35 +1061,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--233
 
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 243--245
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--256
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 261--265
+Underfull \hbox (badness 10000) in paragraph at lines 246--253
 
  []
 
 
 
 [5]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 281.
+Underfull \hbox (badness 10000) in paragraph at lines 268--270
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--290
+
+ []
+
+
+
+[6]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 306.
  (C:\Users\Marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 281.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 306.
  (C:\Users\Marti\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
-[6]
+[7]
 
-[7] (Relatorio.aux)
+[8] (Relatorio.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-10-09>
@@ -1101,17 +1108,17 @@ Package logreq Info: Writing requests to 'Relatorio.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36528 strings out of 473897
- 735214 string characters out of 5726462
- 1598644 words of memory out of 5000000
+ 36529 strings out of 473897
+ 735220 string characters out of 5726462
+ 1598646 words of memory out of 5000000
  58888 multiletter control sequences out of 15000+600000
  566494 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,6n,107p,748b,2805s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Marti\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>
-Output written on Relatorio.pdf (9 pages, 204348 bytes).
+Output written on Relatorio.pdf (10 pages, 206718 bytes).
 PDF statistics:
- 403 PDF objects out of 1000 (max. 8388607)
- 26 named destinations out of 1000 (max. 500000)
+ 407 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
